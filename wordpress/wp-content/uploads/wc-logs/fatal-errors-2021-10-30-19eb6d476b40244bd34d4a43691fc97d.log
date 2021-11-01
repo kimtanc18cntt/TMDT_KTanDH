@@ -1,0 +1,127 @@
+2021-10-30T12:50:33+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:50:45+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:50:45+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:50:52+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:51:04+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:51:05+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:51:16+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:51:31+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T12:51:31+00:00 CRITICAL syntax error, unexpected ')', expecting '(' in C:\xamppa\htdocs\wordpress\wp-content\plugins\plg2\myplg.php on line 8
+
+2021-10-30T13:19:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:20:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:21:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xamppa\\htdoc...')
+#4 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:21:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:21:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:22:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:22:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\options-general.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:27:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:27:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\update.php(16): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:28:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\update.php(16): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
+2021-10-30T13:28:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php:13
+Stack trace:
+#0 C:\xamppa\htdocs\wordpress\wp-settings.php(409): include_once()
+#1 C:\xamppa\htdocs\wordpress\wp-config.php(96): require_once('C:\\xamppa\\htdoc...')
+#2 C:\xamppa\htdocs\wordpress\wp-load.php(50): require_once('C:\\xamppa\\htdoc...')
+#3 C:\xamppa\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xamppa\\htdoc...')
+#4 C:\xamppa\htdocs\wordpress\wp-admin\plugin-install.php(16): require_once('C:\\xamppa\\htdoc...')
+#5 {main}
+  thrown in C:\xamppa\htdocs\wordpress\wp-content\plugins\wp-floatAdminBox\wp-fas.php on line 13
+
